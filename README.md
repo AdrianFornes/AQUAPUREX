@@ -34,4 +34,24 @@ Para la construcción de la borda del barco se prediseño en carton:
 
 ![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/6f704687-1245-427f-9f8d-f3e35f656f46)
 
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/fd8d7d39-64d1-4a31-a703-b88babdb1dff)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/1a7b56ce-25bc-4ee3-bbb1-96d40d791532)
+
+Una vez calculada la distancia de la borda se procedio a instalarlo en material de triplay par una mejor rigides, flexibilidad y ligereza en la estructura.
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/0bc6360e-7153-416e-91fe-c21c1ee71f0c)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/fd38489b-ae81-424e-aa26-b5e12dcf840a)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/d7fba821-790f-4bdf-89a9-cdb24172ffd4)
+
+Posterior a ello se hizo una prueba para comprobar su flotabilidad:
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/9b475e21-e0bc-40ca-9dfe-31d0747e7f2d)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/1ac5753c-64f7-423d-a3a9-3cd48560edef)
+
+
+
 
