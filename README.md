@@ -20,3 +20,12 @@ En conjunto, el robot de limpieza de cuerpos de agua ofrece una soluci ́on comp
 para abordar el problema de la contaminaci ́on acu ́atica. Su capacidad de recolecci ́on automa-
 tizada, su avanzado sistema de navegaci ́on y su operaci ́on aut ́onoma lo convierten en una herramienta invaluable para la preservaci ́on de nuestros recursos h ́ıdricos y la protecci ́on de la vida acu ́atica.
 
+## Caracteristicas principales del Producto
+
+El barco de limpieza de cuerpos de agua está diseñado con dimensiones compactas de 80 cm de largo, 80 cm de ancho y 40 cm de alto, lo que permite una fácil maniobrabilidad en una variedad de entornos acuáticos. Equipado con dos motores para la propulsión, este barco ofrece una capacidad de carga de hasta 5 kg, lo que le permite recolectar una amplia gama de desechos y residuos flotantes de manera efectiva.
+
+Para garantizar un funcionamiento sostenible, el barco de limpieza de cuerpos de agua se alimenta mediante una batería de 12 voltios con una capacidad de 1 amperio, lo que proporciona una fuente de energía eficiente y respetuosa con el medio ambiente. Su construcción robusta incluye un esqueleto de PVC de 3/4 de pulgada para una base sólida, mientras que el casco está recubierto de madera para mejorar la durabilidad y el aspecto estético del barco.
+
+La estabilidad en el agua está garantizada gracias al sistema de flotación de unicel de 5 cm, que proporciona una base estable y equilibrada durante la operación. Para facilitar su control y automatización, el barco de limpieza de cuerpos de agua utiliza un puente H y un Arduino Uno, lo que permite un funcionamiento semiautónomo y una navegación precisa.
+
+La interfaz de usuario intuitiva, desarrollada mediante una aplicación en MIT App Inventor, ofrece botones de dirección (derecha, izquierda y avanzar) para facilitar la navegación y el control del barco. Además, la inclusión de un módulo HC-05 permite la comunicación Bluetooth, lo que posibilita el control remoto del barco a través de dispositivos móviles compatibles, aumentando su versatilidad y facilidad de uso.
