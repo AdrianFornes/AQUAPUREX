@@ -26,5 +26,12 @@ Para construir el robot acuatico, fue necesario diseñar su construcción, tenie
 
 ![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/f6d26380-40df-42fc-b08b-a5e8947227e1)
 
-El diseño permite al barco almacenar basura en su interior mientras sigue avanzando, permitiendole limpiar las zonas asignadas sin que los desechos se esparzan
+El diseño permite al barco almacenar basura en su interior mientras sigue avanzando, permitiendole limpiar las zonas asignadas sin que los desechos se esparzan.
+
+La construcción se llevó a cabo con material reciclado, tomando en cuenta la flotabilidad, estabilidad y el peso. Por eso se decidio usar una base de unicel y tuvos de PVC para que tuvieran una flotabilidad rigida, al unicel se le aplico un sellador para que no tuviera complicaciones con el agua (hinchamiento, absorción del agua, etc.), los tuvos de PVC fueron unidos y sellados de tal manera que aunque la base del unicel no resistiera, el aire en los tubos permita una flotabilidad y estabilidad en el barco, además de que cumple con la función de esqueleto y soporte principal del robot.
+
+Para la construcción de la borda del barco se prediseño en carton:
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/6f704687-1245-427f-9f8d-f3e35f656f46)
+
 
