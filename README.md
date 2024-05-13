@@ -19,8 +19,4 @@ medio ambiente.
 En conjunto, el robot de limpieza de cuerpos de agua ofrece una soluci ́on completa y efectiva
 para abordar el problema de la contaminaci ́on acu ́atica. Su capacidad de recolecci ́on automa-
 tizada, su avanzado sistema de navegaci ́on y su operaci ́on aut ́onoma lo convierten en una herramienta invaluable para la preservaci ́on de nuestros recursos h ́ıdricos y la protecci ́on de la vida acu ́atica.
-Figura 1: Seabin Robot
-2.1. Ventajas Competitivas
-El barco robot ofrece varias ventajas competitivas en comparaci ́on con m ́etodos tradicionales
-de limpieza de cuerpos de agua. Aqu ́ı algunas de las ventajas clave:
-1. Eficiencia Operativa:
+
