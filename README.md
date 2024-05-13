@@ -26,5 +26,5 @@ Para construir el robot acuatico, fue necesario diseñar su construcción, tenie
 
 ![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/f6d26380-40df-42fc-b08b-a5e8947227e1)
 
-
+El diseño permite al barco almacenar basura en su interior mientras sigue avanzando, permitiendole limpiar las zonas asignadas sin que los desechos se esparzan
 
