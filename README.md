@@ -77,8 +77,9 @@ Nos encontramos con muchos problemas y obstaculos en el proceso de instalacion d
 
 ![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/ab04f92c-59e4-4e04-9ba2-10b960a47025)
 
-Para una ultima prueba de funcionalidad de todo el proyecto se desplegó en una piscina con inclinación.
+Para una ultima prueba de funcionalidad de todo el proyecto se desplegó en una piscina con inclinación para poner a prueba el torque de los motores, la flotabilidad y la fiabilidad en los ejes.
 
+https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/4b5de7d5-101a-42e0-96de-4a74aff5eb6a
 
 
 
