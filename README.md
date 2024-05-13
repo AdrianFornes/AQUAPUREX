@@ -30,7 +30,14 @@ El diseño permite al barco almacenar basura en su interior mientras sigue avanz
 
 La construcción se llevó a cabo con material reciclado, tomando en cuenta la flotabilidad, estabilidad y el peso. Por eso se decidio usar una base de unicel y tuvos de PVC para que tuvieran una flotabilidad rigida, al unicel se le aplico un sellador para que no tuviera complicaciones con el agua (hinchamiento, absorción del agua, etc.), los tuvos de PVC fueron unidos y sellados de tal manera que aunque la base del unicel no resistiera, el aire en los tubos permita una flotabilidad y estabilidad en el barco, además de que cumple con la función de esqueleto y soporte principal del robot.
 
-Para la construcción de la borda del barco se prediseño en carton:
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/006fdb55-a5c7-4b87-84ad-e37933bc2e44)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/76407911-970a-49b3-ba7f-8b87ce07fa32)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/6808818c-103e-40f9-a1f3-b78049e6fc0c)
+
+
+Para la construcción del casco del barco se prediseño en carton:
 
 ![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/6f704687-1245-427f-9f8d-f3e35f656f46)
 
@@ -65,6 +72,14 @@ Una vez el diseño funcionara de manera excitosa, se le acoplo el circuito, sold
 ![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/ef55d12a-1f83-41e9-86a9-717679c59e69)
 
 Nos encontramos con muchos problemas y obstaculos en el proceso de instalacion del circuito, uno de ellos fueron los ejes que conectan las helices con los motores por falta de rigidez, se optó por cambiar esa pieza a una mas robustas, insertando un pedazo de metal en el eje para una mejor rigidez. Otro obstaculo fue en la instalación de los servomotores al casco del robot, al momento de compilar el programa y observar el comportamiento de los motores, se analizó criticamente que la vibración de ambos servomotores afectaban el funcionamiento de las helices y conexión al arduino, se optó por ponerle cinta de aislar pero al momento de probar su resistencia, la cinta no pudó resistir y la solución que le dimos fue una perforación con un rotomartillo para perforar el triplay y aplicar unos sinchos para un mejor control.
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/5b647268-4942-41b8-98e7-f304931b4d43)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/ab04f92c-59e4-4e04-9ba2-10b960a47025)
+
+Para una ultima prueba de funcionalidad de todo el proyecto se desplegó en una piscina con inclinación.
+
+
 
 
 
