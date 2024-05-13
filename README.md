@@ -81,6 +81,17 @@ Para una ultima prueba de funcionalidad de todo el proyecto se desplegó en una 
 
 https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/4b5de7d5-101a-42e0-96de-4a74aff5eb6a
 
+El día de la presentación se dificulto la conexión entre dispositivos debido a la mala señal de internet pero se pudo resolver de manera eficiente, para ello se cargaron dos programas para 2 las dos demostraciones, uno con el control de la aplicación y uno autonomo que cumplia con una rutina sencilla de un rectangulo, a continuación las pruebas de la demostración:
+
+https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/5c35d5ec-fdd1-4ef8-8b59-79b6c51ed80c
+
+https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/10b5c68b-f21c-44ea-8157-4843d8c3a589
+
+
+
+
+
+
 
 
 
