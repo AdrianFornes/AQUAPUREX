@@ -87,6 +87,7 @@ https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/5c35d5ec-fdd1-4ef8-8b
 
 https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/10b5c68b-f21c-44ea-8157-4843d8c3a589
 
+En la demostracion el robot demostro su eficiencia y fiabilidad en su funcionamiento por lo que damos como un exito el trabajo realizado.
 
 
 
