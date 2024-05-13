@@ -50,7 +50,26 @@ Posterior a ello se hizo una prueba para comprobar su flotabilidad:
 
 ![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/9b475e21-e0bc-40ca-9dfe-31d0747e7f2d)
 
-![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/1ac5753c-64f7-423d-a3a9-3cd48560edef)
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/b42f04dc-fa21-43c8-89b9-9d50d536b2a7)
+
+A pesar de ser excitosa la prueba, optamos por perforar la madera en las partes laterales, esto con motivo de tener una mejor aerodinamica, reducir peso y por diseño. Con los cambios realizados, el robot pudó cargar y almacenar más peso para su operatividad, siendo flexible al momento de cambiar algun componente u optimizarlo.
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/427ae148-310e-4809-998c-b9eac3e8aa2f)
+
+Una vez el diseño funcionara de manera excitosa, se le acoplo el circuito, soldando y pegando componentes para su fiabilidad.
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/d77e6c90-6751-438d-9387-dfbb3f67ea89)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/b1b0206e-8d4f-476d-9b92-41e7f4a3f0b6)
+
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/ef55d12a-1f83-41e9-86a9-717679c59e69)
+
+Nos encontramos con muchos problemas y obstaculos en el proceso de instalacion del circuito, uno de ellos fueron los ejes que conectan las helices con los motores por falta de rigidez, se optó por cambiar esa pieza a una mas robustas, insertando un pedazo de metal en el eje para una mejor rigidez. Otro obstaculo fue en la instalación de los servomotores al casco del robot, al momento de compilar el programa y observar el comportamiento de los motores, se analizó criticamente que la vibración de ambos servomotores afectaban el funcionamiento de las helices y conexión al arduino, se optó por ponerle cinta de aislar pero al momento de probar su resistencia, la cinta no pudó resistir y la solución que le dimos fue una perforación con un rotomartillo para perforar el triplay y aplicar unos sinchos para un mejor control.
+
+
+
+
+
 
 
 
