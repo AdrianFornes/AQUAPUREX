@@ -38,15 +38,15 @@ Despues de que se realizo el layout de la app, se deben de programar los bloques
 Despues de uqe se haya logrado la conexion se programaron 3 bloques de codigo en el cual se especifica el motor derecho, izquierdo y el GO, cabe recalcar que tambien se configuraron como es que se van a presionar los botones, en este caso fue un mantener y soltar en cada yuno de ellos para que el ususario tuviera el control sin algun tipo de problema. En cada uno de estos programas hacemos que imprima una letra para podersela mandar al programa del arduino y asi tener una reaccion al momento de presionar los botones, esta tiene que ser diferente para que no tengamos problema en el programa de arduino. En la siguientes imagenes se mostraran los bloques necesarios para programar de manera eficiente el control.
 
 <p align="center">
-  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/conexion%20bt.png">
+  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/derecho.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/conexion%20bt.png">
+  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/izquierdo.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/conexion%20bt.png">
+  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/ambos.png">
 </p>
 
 ## Construcción
