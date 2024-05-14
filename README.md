@@ -22,8 +22,13 @@ Para la parte del software se realizo una aplicacion que se puede controlar medi
 
 La primera parte que se configuro fue la interfaz de la app, se decidio que fuera de forma horizontal, que tuviera tres botones simples para su utilizacion, se configuro los botones de la manera en la que se ve en la siguiente imagen.
  <p align="center">
-  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/display%7B.png">
+  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/display%7B.png">
 </p>
+Con estos bloques de botones pudimos definir cualles iban a ser nuestros controles, se les puso una flecha como imagen por pura representacion y el texto de abajo indicando que flecha mueve cada motor, tambien se afrea un boton "GO" el cual significa que los dos motores se prenden al mismo tiempo para avanzar. Por otra parte se hizo una coneccion Bluetooth para poderse conctar con el hc- 05 que esta conectado con el arduino, tambien se agrego una lista de dispósitivos bluetooth para poder conectarla aplicacion con el robot. Como se puede observar en la sigueinte imagen la distribuucion del layout de la app.
+<p align="center">
+  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/display%7B.png">
+</p>
+
 ## Construcción
 
 Para construir el robot acuatico, fue necesario diseñar su construcción, teniendo en cuenta los materiales a usar, para ello se llevaron a cabo los siguientes diseños:
