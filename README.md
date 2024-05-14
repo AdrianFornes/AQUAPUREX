@@ -16,6 +16,12 @@ La estabilidad en el agua está garantizada gracias al sistema de flotación de 
 
 La interfaz de usuario intuitiva, desarrollada mediante una aplicación en MIT App Inventor, ofrece botones de dirección (derecha, izquierda y avanzar) para facilitar la navegación y el control del barco. Además, la inclusión de un módulo HC-05 permite la comunicación Bluetooth, lo que posibilita el control remoto del barco a través de dispositivos móviles compatibles, aumentando su versatilidad y facilidad de uso.
 
+## Desarrollo Software
+
+Para la parte del software se realizo una aplicacion que se puede controlar mediante un dispositivo celular, esta aplicacioin es MIT App Inventor la cual es una gran pagina y es muy sencilla de utilizar, para esto se creo una cuenta el esta pagina y de ahi un nuevo proyecto para generar nuestro control remoto.
+
+La primera parte que se configuro fue la interfaz de la app, se decidio que fuera de forma horizontal, que tuviera tres botones simples para su utilizacion, se configuro los botones de la manera en la que se ve en la siguiente imagen.
+![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/b4a5e557-83b7-408a-bd3f-e9bd4dfdaceb)
 ## Construcción
 
 Para construir el robot acuatico, fue necesario diseñar su construcción, teniendo en cuenta los materiales a usar, para ello se llevaron a cabo los siguientes diseños:
