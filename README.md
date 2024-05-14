@@ -21,7 +21,7 @@ La interfaz de usuario intuitiva, desarrollada mediante una aplicación en MIT A
 Para la parte del software se realizo una aplicacion que se puede controlar mediante un dispositivo celular, esta aplicacioin es MIT App Inventor la cual es una gran pagina y es muy sencilla de utilizar, para esto se creo una cuenta el esta pagina y de ahi un nuevo proyecto para generar nuestro control remoto.
 
 La primera parte que se configuro fue la interfaz de la app, se decidio que fuera de forma horizontal, que tuviera tres botones simples para su utilizacion, se configuro los botones de la manera en la que se ve en la siguiente imagen.
-![image](https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/b4a5e557-83b7-408a-bd3f-e9bd4dfdaceb)
+![image](https://github.com/AdrianFornes/AQUAPUREX/blob/main/display%7B.png)
 ## Construcción
 
 Para construir el robot acuatico, fue necesario diseñar su construcción, teniendo en cuenta los materiales a usar, para ello se llevaron a cabo los siguientes diseños:
