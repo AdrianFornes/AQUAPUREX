@@ -26,8 +26,15 @@ La primera parte que se configuro fue la interfaz de la app, se decidio que fuer
 </p>
 Con estos bloques de botones pudimos definir cualles iban a ser nuestros controles, se les puso una flecha como imagen por pura representacion y el texto de abajo indicando que flecha mueve cada motor, tambien se afrea un boton "GO" el cual significa que los dos motores se prenden al mismo tiempo para avanzar. Por otra parte se hizo una coneccion Bluetooth para poderse conctar con el hc- 05 que esta conectado con el arduino, tambien se agrego una lista de dispósitivos bluetooth para poder conectarla aplicacion con el robot. Como se puede observar en la sigueinte imagen la distribuucion del layout de la app.
 <p align="center">
-  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/display%7B.png">
+  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/bottons.png">
 </p>
+
+Despues de que se realizo el layout de la app, se deben de programar los bloques necesarios para poder controlar los motores, en este caso primero se hizo una conexion bluetooth en bloques donde se especifica la conexiion simple entre el robot y el telefono.
+
+<p align="center">
+  <img src="https://github.com/AdrianFornes/AQUAPUREX/blob/main/ship/bottons.png">
+</p>
+
 
 ## Construcción
 
