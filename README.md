@@ -89,7 +89,9 @@ https://github.com/AdrianFornes/AQUAPUREX/assets/132616532/10b5c68b-f21c-44ea-81
 
 En la demostracion el robot demostro su eficiencia y fiabilidad en su funcionamiento por lo que damos como un exito el trabajo realizado.
 
-Para la parte autonoma se desarrolló en el software Arduino IDE, donde realiza una rutina en forma rectangular
+Para la parte autonoma se desarrolló en el software Arduino IDE, donde realiza una rutina en forma rectangular 
+
+*Checar anexo Rectangulo_Autonomo.ino*
 
 
 
